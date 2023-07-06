@@ -1,0 +1,27 @@
+Student;L1;L2;L3;L4;L5;L6 ;P
+Ann;E,E,F;E,E,F;E,E,F;E,E,F;E,E,F;E,E,F;E,E,F
+Bob;E,E,F;E,E,F;E,E,F;E,E,F;E,E,F;VG,E,F;E,VG,F
+Carl;E,E,F;E,E,F;E,E,F;E,VG,M;VG,VG,M;VG,VG,M;E,VG,F
+Diana;E,E,F;E,E,F;E,VG,F;VG,VG,F;VG,VG,F;VG,VG,F;VG,VG,F
+Ernest;E,E,F;E,VG,F;VG,VG,F;VG,VG,F;VG,VG,M;VG,VG,M;VG,VG,M
+Frances;E,VG,M;VG,VG,F;VG,VG,F;VG,VG,M;VG,VG,M;VG,VG,M;VG,VG,M
+Gale;VG,VG,F;VG,VG,F;VG,VG,M;VG,VG,M;VG,VG,M;VG,VG,M;VG,VG,M
+Hillary;VG,VG,F;VG,VG,F;VG,VG,M;VG,VG,M;VG,VG,M;G,G,F;VG,VG,M
+Indiana;VG,VG,F;VG,VG,M;VG,VG,M;VG,VG,G;G,G,F;G,G,M;VG,VG,M
+Jane;VG,VG,M;VG,VG,M;VG,VG,M;G,G,F;G,VG,M;G,M,F;G,M,F
+Kyle;VG,G,M;VG,G,M;G,VG,M;G,G,M;G,G,M;G,M,F;G,M,F
+Lynn;VG,G,M;G,G,F;G,G,M;G,G,M;G,G,M;G,M,F;G,M,F
+Mary;G,VG,M;G,G,F;G,G,M;G,G,M;G,G,M;G,M,F;G,M,F
+Nelson;G,VG,M;G,G,M;G,G,M;G,G,M;G,G,M;M,G,F;G,M,F
+Omara;G,G,F;G,G,M;G,G,M;G,G,M;M,G,F;M,G,F;G,M,F
+Paul;G,G,F;G,G,M;G,G,M;M,G,F;M,G,F;M,G,F;M,G,F
+Quentin;G,M,F;G,G,F;M,G,F;M,M,F;M,M,F;M,M,F;M,G,F
+Richard;G,M,F;M,G,F;M,G,F;M,M,F;M,M,F;M,M,F;M,G,F
+Saul;M,M,F;M,M,F;M,M,F;M,M,F;M,M,F;M,M,F;M,M,F
+Terence;M,M,F;M,M,F;M,M,F;M,M,F;M,M,F;F,M,G;M,M,G
+Umma;M,M,G;M,M,G;M,M,G;M,M,G;F,M,VG;F,M,VG;M,M,VG
+Valentine;M,M,VG;M,M,VG;M,M,VG;F,M,VG;F,M,VG;F,M,VG;F,M,VG
+William;M,M,VG;M,M,VG;F,M,E;F,M,E;F,M,VG;F,M,VG;F,M,VG
+Ximena;M,M,VG;F,M,E;F,M,E;F,M,E;F,M,E;F,M,E;F,M,E
+Yorick;F,M,VG;F,M,VG;F,M,VG;F,M,E;F,M,E;F,M,E;F,M,E
+Zoe;F,M,E;F,M,E;F,M,E;F,M,E;F,M,E;F,M,E;F,M,E

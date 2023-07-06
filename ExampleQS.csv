@@ -1,0 +1,27 @@
+Student;L1;L2;L3;L4;L5;L6 ;P
+Ann;E;E;E;E;E;E;E
+Bob;E;E;E;E;E;VG;E
+Carl;E;E;E;E;VG;VG;E
+Diana;E;E;E;VG;VG;VG;VG
+Ernest;E;E;VG;VG;VG;VG;VG
+Frances;E;VG;VG;VG;VG;VG;VG
+Gale;VG;VG;VG;VG;VG;VG;VG
+Hillary;VG;VG;VG;VG;VG;G;VG
+Indiana;VG;VG;VG;VG;G;G;VG
+Jane;VG;VG;VG;G;G;G;G
+Kyle;VG;VG;G;G;G;G;G
+Lynn;VG;G;G;G;G;G;G
+Mary;G;G;G;G;G;G;G
+Nelson;G;G;G;G;G;M;G
+Omara;G;G;G;G;M;M;G
+Paul;G;G;G;M;M;M;M
+Quentin;G;G;M;M;M;M;M
+Richard;G;M;M;M;M;M;M
+Saul;M;M;M;M;M;M;M
+Terence;M;M;M;M;M;F;M
+Umma;M;M;M;M;F;F;M
+Valentine;M;M;M;F;F;F;F
+William;M;M;F;F;F;F;F
+Ximena;M;F;F;F;F;F;F
+Yorick;F;F;F;F;F;F;F
+Zoe;F;F;F;F;F;F;F
